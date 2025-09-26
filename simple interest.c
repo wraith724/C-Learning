@@ -1,5 +1,7 @@
 /*
-computing simple intrest SI=P*(rate/100)*time
+Name:Peter Ngubiru
+Reg No.:CT101/G/26455/25
+Description:a program to compute simple intrest SI=P*(rate/100)*time
 */
 #include<stdio.h>
 
@@ -29,3 +31,4 @@ int main(){
 
 
 }
+
