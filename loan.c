@@ -1,4 +1,7 @@
-/*a program to verify the qualifications
+/*
+Name:Peter Ngubiru
+Reg No.:CT101/G/26455/25
+Description:a program to verify the qualifications
 for receiving a loan
 */
 
@@ -25,4 +28,5 @@ int main(){
     return 0;
 
     }
+
 
