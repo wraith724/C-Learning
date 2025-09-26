@@ -6,6 +6,7 @@ Description:a program to show the units for computer science year 1 semester 1
 */
 #include <stdio.h>
 
+//main function
 int main(){
     
     printf("communication skills\n");
@@ -20,3 +21,4 @@ int main(){
     return 0;
 
 }
+
